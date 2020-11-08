@@ -213,7 +213,11 @@ ln -s $ORACLE_HOME/bin/sqlplus /usr/bin
 - Test Connection
   - 测试是否能连接
 
-### 
+
+
+
+
+##  
 
 
 
@@ -226,6 +230,8 @@ ln -s $ORACLE_HOME/bin/sqlplus /usr/bin
 
 
 
+
+## 
 
 
 
